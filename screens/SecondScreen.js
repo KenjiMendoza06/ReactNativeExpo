@@ -7,7 +7,7 @@ import background from '../assets/background-1.jpg';
 import axios from 'axios';
 
 
-const PALM_API_KEY = 'AIzaSyB2Mp3wH33WtkYTXb_Bt85LSddGT_sJRMA';
+
 const NLP_API_BASE_URL = 'http://172.20.30.159:3001/bot';
 
 const SecondScreen = ({navigation}) => {
